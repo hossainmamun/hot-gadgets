@@ -1,0 +1,44 @@
+
+
+.container{
+    margin-bottom: 80px;
+}
+.container h1{
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+
+/* carousel item */
+.carousel-item h1{
+    text-transform: capitalize;
+}
+.carousel-item a, .card a{
+    text-decoration: none;
+}
+.carousel-item a button, .card a button{
+    border: none;
+    background: #000;
+    color: #fff;
+    padding: 10px 15px;
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+
+/* card item*/
+.card{
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px 35px lightgray;
+}
+.card-text{
+    text-align: center;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.card-body h5{
+    text-transform: capitalize;
+}
+.card h4{
+    margin-bottom: 20px;
+}
